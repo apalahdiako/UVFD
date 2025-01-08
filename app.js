@@ -5,7 +5,7 @@ const products = [
   {
     id: 1,
     title: "SWEATPANTS",
-    price: 119,
+    price: 220k,
     colors: [
       {
         code: "black",
@@ -20,7 +20,7 @@ const products = [
   {
     id: 2,
     title: "HOODIE BOXY",
-    price: 149,
+    price: 250k,
     colors: [
       {
         code: "lightgray",
@@ -35,7 +35,7 @@ const products = [
   {
     id: 3,
     title: "JERSEY NFL ",
-    price: 109,
+    price: 140k,
     colors: [
       {
         code: "lightgray",
@@ -50,7 +50,7 @@ const products = [
   {
     id: 4,
     title: "BALACLAVA",
-    price: 129,
+    price: 50k,
     colors: [
       {
         code: "black",
@@ -65,7 +65,7 @@ const products = [
   {
     id: 5,
     title: "T-SHIRT",
-    price: 99,
+    price: 100k,
     colors: [
       {
         code: "gray",
